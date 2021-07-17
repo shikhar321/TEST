@@ -195,6 +195,9 @@ This module allows admin to perform five major operations:
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
+
+### License
+This project is licensed under the [MIT License](LICENSE)
   
 
 
