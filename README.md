@@ -1,7 +1,7 @@
-![second](https://github.com/Images/Capture.JPG?raw=true "Optional Title")
-![testing](https://github.com/shikhar321/TEST/Images/Capture.JPG?raw=true)
+<img src=https://raw.githubusercontent.com/shikhar321/TEST/main/Images/Capture.JPG>
 # https://github.com/kishan0725/Hospital-Management-System
-# E-Commerce Website: CoviTech
+
+## E-Commerce Website: CoviTech
 E-Commerce Website using MySQL, Php and Bootstrap
 
 
