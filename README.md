@@ -4,6 +4,10 @@
 ## E-Commerce Website: CoviTech
 E-Commerce Website using MySQL, Php and Bootstrap
 
+<img src="https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png" width="180" height="200" />
+
+![image](https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png)
+
 
 ## Need to work on:
 
