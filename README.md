@@ -104,6 +104,9 @@ CREATE TABLE `orders` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 `````````````````````````````````````````````````````
 
+NOTE: EVERYTHING IS CASE SENSITIVE
+
+
 14. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
 15. Hurray! That's it!
     
