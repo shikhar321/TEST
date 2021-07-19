@@ -33,14 +33,16 @@ E-Commerce Website using MySQL, Php and Bootstrap
 1. Download and install XAMPP in your machine
 2. Clone or download the repository
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
-4. Make 
-5. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
+4. Make a new folder 'project' in the 'htdocs' folder of your XAMPP directory. Extract all the files and move it to this folder.
 6. Start the Apache and Mysql in your XAMPP control panel.
-7. Open your web browser and type 'localhost/phpmyadmin'
-8. In phpmyadmin page, create a new database from the left panel and name it as 'project'
-9. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
-10. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
-11. Hurray! That's it!
+7. Click on Admin button in the Mysql Module. Alternatively you can open your web browser and type 'http://localhost/phpmyadmin/'
+8. In phpmyadmin page, create a new database from the left panel and name it as 'project'.
+9. Click on New button inside 'project' database
+10. On the navigation bar click on SQL and create a table named “users” inside your newly created database and click ok.
+
+10. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
+11. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
+12. Hurray! That's it!
     
 ### SOFTWARES USED
   - XAMPP was installed on windows and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
