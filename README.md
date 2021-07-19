@@ -36,13 +36,72 @@ E-Commerce Website using MySQL, Php and Bootstrap
 4. Make a new folder 'project' in the 'htdocs' folder of your XAMPP directory. Extract all the files and move it to this folder.
 6. Start the Apache and Mysql in your XAMPP control panel.
 7. Click on Admin button in the Mysql Module. Alternatively you can open your web browser and type 'http://localhost/phpmyadmin/'
-8. In phpmyadmin page, create a new database from the left panel and name it as 'project'.
-9. Click on New button inside 'project' database
-10. On the navigation bar click on SQL and create a table named “users” inside your newly created database and click ok.
 
-10. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
-11. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
-12. Hurray! That's it!
+### Database Creation Instruction
+
+9. In phpmyadmin page, create a new database from the left panel and name it as 'project'.
+
+#### Creating Table "users":
+11. In this 'project' database, click on "New" button.
+12. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
+
+`````````````````````````````````````````````````````
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `firstname` varchar(100) NOT NULL,
+  `Lastname` varchar(100) NOT NULL,
+  `gender` varchar(100) NOT NULL,
+    `DOB` date NOT NULL,
+    `email` varchar(100) NOT NULL,
+    `password` varchar(100) NOT NULL,
+    `num` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+`````````````````````````````````````````````````````
+
+#### Creating Table "admin":
+12. In the 'project' database, again click on "New" button.
+12. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
+
+`````````````````````````````````````````````````````
+CREATE TABLE `admin` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `username` varchar(100) NOT NULL,
+  `password` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+`````````````````````````````````````````````````````
+
+#### Creating Table "testing":
+13. In the 'project' database, again click on "New" button.
+14. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
+
+`````````````````````````````````````````````````````
+CREATE TABLE `testing` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `Product` varchar(100) NOT NULL,
+  `Price` int(11) NOT NULL,
+  `Email` varchar(100) NOT NULL,
+    `Quantity` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+`````````````````````````````````````````````````````
+
+#### Creating Table "orders":
+15. In the 'project' database, again click on "New" button.
+16. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
+
+`````````````````````````````````````````````````````
+CREATE TABLE `orders` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `Product` varchar(100) NOT NULL,
+  `Price` int(11) NOT NULL,
+  `Email` varchar(100) NOT NULL,
+  `Quantity` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+`````````````````````````````````````````````````````
+
+14. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
+15. Hurray! That's it!
     
 ### SOFTWARES USED
   - XAMPP was installed on windows and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
