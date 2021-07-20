@@ -1,12 +1,10 @@
-<img src=https://raw.githubusercontent.com/shikhar321/TEST/main/Images/Capture.JPG>
-# https://github.com/kishan0725/Hospital-Management-System
+### https://github.com/kishan0725/Hospital-Management-System
 
 ## E-Commerce Website: CoviTech
 E-Commerce Website using MySQL, Php and Bootstrap
 
-<img src="https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png" width="180" height="200" />
 
-![image](https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png)
+
 
 
 ## Need to work on:
@@ -104,6 +102,8 @@ CREATE TABLE `orders` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 `````````````````````````````````````````````````````
 
+<img src="https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png" width="180" height="200" />
+
 NOTE: EVERYTHING IS CASE SENSITIVE
 
 
@@ -111,17 +111,16 @@ NOTE: EVERYTHING IS CASE SENSITIVE
 15. Hurray! That's it!
     
 ### SOFTWARES USED
-  - XAMPP was installed on windows and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
+  - XAMPP was installed on windows and APACHE Server and MySQL were initialized. And, files were built inside C:\xampp\htdocs\project.
   - VS Code was used as a text editor.
-  - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
+  - Google Chrome Version 91.0.4472.124 was used to run the project.
   
 
 ### Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
-  
-  
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/78657875/126271652-4edbcff2-deb4-41c2-9bcc-426576154549.png" width="490" height="320" />  
+	
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
 
