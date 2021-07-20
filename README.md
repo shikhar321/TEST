@@ -123,6 +123,22 @@ NOTE: EVERYTHING IS CASE SENSITIVE
 	
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
+	
+![image](https://user-images.githubusercontent.com/78657875/126287259-333c4540-d5a9-41a4-9e03-0e0a5dd268ed.png)
+	
+![image](https://user-images.githubusercontent.com/78657875/126288270-d9f70962-185c-451e-b062-3f9eb973ace9.png)
+	
+![image](https://user-images.githubusercontent.com/78657875/126289050-0b69d131-1e1c-4aad-9966-4bae9bc0132a.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126289294-558c67d8-a13a-4587-99f4-f9df042a82b5.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126289979-6b986ef7-9608-499c-9239-e2ee8976ae45.png)
+	
+![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
 
