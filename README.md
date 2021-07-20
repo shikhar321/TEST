@@ -135,6 +135,27 @@ Hospital Management System in php and mysql. This system has a ‘Home’ page f
 ![image](https://user-images.githubusercontent.com/78657875/126289979-6b986ef7-9608-499c-9239-e2ee8976ae45.png)
 	
 ![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
+	
+![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126368397-ae9f69f3-cef3-415d-b151-2c9071ae4938.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126368896-fb81e26d-4e81-4a8f-a3c1-1cddd5438ca0.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126370427-c2a742f0-665c-448c-8375-d2953c93133f.png)
+	
+![image](https://user-images.githubusercontent.com/78657875/126373563-0f661675-9db1-4168-8376-b589536c9408.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126390486-53d6f78b-a00d-46ab-b351-fa3bcbe7c65b.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126390951-3eeccbb3-01e7-47db-981c-731506884a71.png)
+
+![image](https://user-images.githubusercontent.com/78657875/126391158-50a23edd-c3e3-46c0-9bb5-12cf09793d88.png)
+
+
+	
+
+
 
 
 
