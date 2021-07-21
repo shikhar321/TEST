@@ -122,23 +122,74 @@ NOTE: EVERYTHING IS CASE SENSITIVE
 <p align="center"><img src="https://user-images.githubusercontent.com/78657875/126271652-4edbcff2-deb4-41c2-9bcc-426576154549.png" width="490" height="320" />  
 	
 ## GETTING INTO THE PROJECT:
-Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
+	
+### Home Page:
+This website has a ‘Home’ page which contains links to the following from where the user & admin can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
+
+This is the 'Home' page of our website. (Fig 1.1)
 	
 ![image](https://user-images.githubusercontent.com/78657875/126287259-333c4540-d5a9-41a4-9e03-0e0a5dd268ed.png)
 	
+It contains following sections:-
+
+A) Services (Fig 1.1.1)
+	
+B) Live Updates (Fig 1.1.2)
+	
+C) Useful Youtube Videos (Fig 1.1.3)
+
+### Services: 
+This Section (in the home page itself) contains link to various services like Register for Vaccine, donate to PM Care Fund, find nearest vaccination center and read information about COVID-19 and its prevention.
+	
 ![image](https://user-images.githubusercontent.com/78657875/126288270-d9f70962-185c-451e-b062-3f9eb973ace9.png)
+
+### Live Updates:
+This Section (in the home page itself) displays (COVID-19) statistics of confirmed Covid Cases, Deaths and number of people vaccinated. The user can select any country and can also compare covid cases by region.
 	
 ![image](https://user-images.githubusercontent.com/78657875/126289050-0b69d131-1e1c-4aad-9966-4bae9bc0132a.png)
 
+### USEFUL YOUTUBE VIDEOS:
+This Section (in the home page itself) displays various embedded Youtube videos on Symptoms, Precautions and Prevention of Coronavirus.
+
 ![image](https://user-images.githubusercontent.com/78657875/126289294-558c67d8-a13a-4587-99f4-f9df042a82b5.png)
 
+<h2 align = "center">About Us</h2>
+'About Us' page (Fig 1.2) allows us to get some more information about goals and the services of our E-commerce website.
+	
 ![image](https://user-images.githubusercontent.com/78657875/126289979-6b986ef7-9608-499c-9239-e2ee8976ae45.png)
-	
-![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
-	
-![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
+
+The website consists of 2 modules:
+
+1. User Module
+2. Admin Module
+
+## User Module:
+
+This module allows customers to create their account, login to their account, view products, add/delete products to their cart and place/cancel their orders.
+
+### Registration Page
+
+The registration page asks customers to enter their First Name, Last Name, DOB, Email Address, Password, Home Address, Phone Number, and radio buttons to select their gender.
 
 ![image](https://user-images.githubusercontent.com/78657875/126368397-ae9f69f3-cef3-415d-b151-2c9071ae4938.png)
+
+### Login Page
+
+Once the user has created his/her own account after clicking the ‘Register’ button, then he/she will be redirected to Login Page (Fig 1.5).
+
+![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
+
+
+
+
+	
+
+
+
 
 ![image](https://user-images.githubusercontent.com/78657875/126368896-fb81e26d-4e81-4a8f-a3c1-1cddd5438ca0.png)
 
@@ -163,7 +214,7 @@ Hospital Management System in php and mysql. This system has a ‘Home’ page f
 
 ![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
 
-'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
+
 
 ![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
 
@@ -171,10 +222,6 @@ Hospital Management System in php and mysql. This system has a ‘Home’ page f
 
 ![image](https://user-images.githubusercontent.com/36665975/66569890-157c6980-eb8a-11e9-9b2f-c0e8a6ef702e.png)
 
-The ‘Home’ page consists of 3 modules:
-1. Patient Module
-2. Doctor Module
-3. Admin Module
 
 ### Patient Module:
 
