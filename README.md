@@ -175,34 +175,54 @@ The registration page asks customers to enter their First Name, Last Name, DOB, 
 
 ### Login Page
 
-Once the user has created his/her own account after clicking the ‘Register’ button, then he/she will be redirected to Login Page (Fig 1.5).
+Once the user has created his/her own account after clicking the ‘Register’ button, then he/she will be redirected to Login Page.
+
+After successful registration, the user has to log in with the email and password provided on the registration page (Fig 1.4).
 
 ![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
 
+### Easy Shop Page
 
+After successful login,  the user gets redirected to Easy Shop Page. Here the user can choose any product as well as the quantity. To add an item to their cart, the user needs to click the "Add to cart" button.
 
-![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
+![image](https://user-images.githubusercontent.com/78657875/126655108-20472cfd-a532-4028-bb70-83521b73d92e.png)
 
+![image](https://user-images.githubusercontent.com/78657875/126655371-70eff33d-2d77-4945-8d24-8c0f48927248.png)
 
+![image](https://user-images.githubusercontent.com/78657875/126655636-b0f7c49d-a7fc-4f76-8a52-a34793e1fba2.png)
 
+### My Cart Page
 
-	
+This Page displays all the products choosen by the user with their ID, Quantity and Price (per item). The user can also Remove an item by clicking on the "Remove" Button.
 
-
-
-
-![image](https://user-images.githubusercontent.com/78657875/126368896-fb81e26d-4e81-4a8f-a3c1-1cddd5438ca0.png)
-
-![image](https://user-images.githubusercontent.com/78657875/126370427-c2a742f0-665c-448c-8375-d2953c93133f.png)
+The user can also place the order by clicking on "Place Order" Button.
 	
 ![image](https://user-images.githubusercontent.com/78657875/126373563-0f661675-9db1-4168-8376-b589536c9408.png)
 
+### My Orders
+
+This Page displays all the orders placed by the user with their ID, Quantity and Price (per item). The user can also cancel an order by clicking on the "Cancel Order" Button.
+
+![image](https://user-images.githubusercontent.com/78657875/126674074-bc84d20c-04f9-428e-8443-c2c0b8c787bc.png)
+
 ![image](https://user-images.githubusercontent.com/78657875/126390486-53d6f78b-a00d-46ab-b351-fa3bcbe7c65b.png)
+
+## Admin Module:
+
+This module allows an Admin to log in to their existing account, view orders of other users, cancel an order, and add a new Admin.
+
+### Admin Login Page:
+
+Firstly, the user has to log in to their existing account using his username and password.
+
 
 ![image](https://user-images.githubusercontent.com/78657875/126390951-3eeccbb3-01e7-47db-981c-731506884a71.png)
 
 ![image](https://user-images.githubusercontent.com/78657875/126391158-50a23edd-c3e3-46c0-9bb5-12cf09793d88.png)
 
+right one below
+
+![image](https://user-images.githubusercontent.com/78657875/126681042-6cf132bb-9209-404a-8a29-1f947b36c280.png)
 
 	
 
@@ -215,13 +235,12 @@ Once the user has created his/her own account after clicking the ‘Register’ 
 ![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
 
 
-
+![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
 ![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
 
 ![image](https://user-images.githubusercontent.com/36665975/66569890-157c6980-eb8a-11e9-9b2f-c0e8a6ef702e.png)
-
 
 ### Patient Module:
 
@@ -354,7 +373,7 @@ This module allows admin to perform five major operations:
 ### License
 This project is licensed under the [MIT License](LICENSE)
   
-
+This project is licensed under the [MIT License](LICENSE)
 
 
 
