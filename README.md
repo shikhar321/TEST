@@ -203,8 +203,6 @@ The user can also place the order by clicking on "Place Order" Button.
 
 This Page displays all the orders placed by the user with their ID, Quantity and Price (per item). The user can also cancel an order by clicking on the "Cancel Order" Button.
 
-![image](https://user-images.githubusercontent.com/78657875/126674074-bc84d20c-04f9-428e-8443-c2c0b8c787bc.png)
-
 ![image](https://user-images.githubusercontent.com/78657875/126390486-53d6f78b-a00d-46ab-b351-fa3bcbe7c65b.png)
 
 ## Admin Module:
@@ -215,8 +213,9 @@ This module allows an Admin to log in to their existing account, view orders of 
 
 Firstly, the user has to log in to their existing account using his username and password.
 
+![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
 
-![image](https://user-images.githubusercontent.com/78657875/126390951-3eeccbb3-01e7-47db-981c-731506884a71.png)
+
 
 ![image](https://user-images.githubusercontent.com/78657875/126391158-50a23edd-c3e3-46c0-9bb5-12cf09793d88.png)
 
@@ -235,7 +234,7 @@ right one below
 ![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
 
 
-![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
+
 ![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
