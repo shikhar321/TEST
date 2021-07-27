@@ -211,10 +211,11 @@ This module allows an Admin to log in to their existing account, view orders of 
 
 ### Admin Login Page:
 
-Firstly, the user has to log in to their existing account using his username and password.
+Firstly, the Admin has to log in to their existing account using his username and password.
 
 ![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
 
+After successful login, the Admin gets redirected to Order Manager Page. Here the Admmin can see choose any product as well as the quantity. To add an item to their cart, the user needs to click the "Add to cart" button.
 
 
 ![image](https://user-images.githubusercontent.com/78657875/126391158-50a23edd-c3e3-46c0-9bb5-12cf09793d88.png)
