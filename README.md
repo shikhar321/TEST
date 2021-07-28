@@ -9,14 +9,8 @@ E-Commerce Website using MySQL, Php and Bootstrap
 
 ## Need to work on:
 
-1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
-2. User should not be allowed to register if he/she tries to provide the already registered email ID.
-3. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
-4. Implementation of pagination for all the list view across the application.
-5. Bug fix - Bill payment receipt contains multiple record if the patient has associated with the same doctor multiple times.
-6. Addition of more fields in the prescription statement to make it more specific one.
-7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
-8. Implementation of export button in admin module to export all details to an excel sheet.
+1. User should not be allowed to register if he/she tries to provide the already registered email ID.
+2. Implementation of export button in admin module to export all details of users to an excel sheet.
 
 ## Prerequisites
 1. Install XAMPP web server
@@ -32,20 +26,20 @@ E-Commerce Website using MySQL, Php and Bootstrap
 6. MySQL (An RDBMS that uses SQL)
 
 ## Steps to run the project in your machine
-1. Download and install XAMPP in your machine
-2. Clone or download the repository
+1. Download and install XAMPP in your machine.
+2. Clone or download the repository.
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
 4. Make a new folder 'project' in the 'htdocs' folder of your XAMPP directory. Extract all the files and move it to this folder.
 6. Start the Apache and Mysql in your XAMPP control panel.
-7. Click on Admin button in the Mysql Module. Alternatively you can open your web browser and type 'http://localhost/phpmyadmin/'
+7. Click on Admin button in the Mysql Module. Alternatively you can open your web browser and type 'http://localhost/phpmyadmin/'.
 
 ### Database Creation Instruction
 
-9. In phpmyadmin page, create a new database from the left panel and name it as 'project'.
+8. In phpmyadmin page, create a new database from the left panel and name it as 'project'.
 
 #### Creating Table "users":
-11. In this 'project' database, click on "New" button.
-12. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
+9. In this 'project' database, click on "New" button.
+10. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
 
 `````````````````````````````````````````````````````
 CREATE TABLE `users` (
@@ -61,7 +55,7 @@ CREATE TABLE `users` (
 `````````````````````````````````````````````````````
 
 #### Creating Table "admin":
-12. In the 'project' database, again click on "New" button.
+11. In the 'project' database, again click on "New" button.
 12. On the navigation bar click on SQL, paste the following SQL commands and click on Go.
 
 `````````````````````````````````````````````````````
@@ -107,8 +101,8 @@ CREATE TABLE `orders` (
 NOTE: EVERYTHING IS CASE SENSITIVE
 
 
-14. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
-15. Hurray! That's it!
+17. Open a new tab and type 'http://localhost/project/index.php' in the url of your browser
+18. Hurray! That's it!
     
 ### SOFTWARES USED
   - XAMPP was installed on windows and APACHE Server and MySQL were initialized. And, files were built inside C:\xampp\htdocs\project.
@@ -215,8 +209,7 @@ Firstly, the Admin has to log in to their existing account using his username an
 
 ![image](https://user-images.githubusercontent.com/78657875/126366865-496348ec-fa66-4ee5-8cb5-3ef8db2b7bf4.png)
 
-After successful login, the Admin gets redirected to Order Manager Page. Here the Admmin can see choose any product as well as the quantity. To add an item to their cart, the user needs to click the "Add to cart" button.
-
+After successful login, the Admin gets redirected to Order Manager Page. Here the Admin can see all the products choosen by the user with their ID, Quantity, Price (per item), Email ID, Address. The Admin can also cancel the order of any user.
 
 ![image](https://user-images.githubusercontent.com/78657875/126391158-50a23edd-c3e3-46c0-9bb5-12cf09793d88.png)
 
