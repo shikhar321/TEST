@@ -1,11 +1,6 @@
-### https://github.com/kishan0725/Hospital-Management-System
+# E-Commerce Website: CoviTech
 
-## E-Commerce Website: CoviTech
-E-Commerce Website using MySQL, Php and Bootstrap
-
-
-
-
+E-Commerce Website using MySQL, PHP and Bootstrap
 
 ## Need to work on:
 
@@ -22,7 +17,7 @@ E-Commerce Website using MySQL, Php and Bootstrap
 2. JavaScript (to create dynamically updating content)
 3. Bootstrap (An HTML, CSS, and JS library)
 4. XAMPP (A web server by Apache Friends)
-5. Php
+5. PHP
 6. MySQL (An RDBMS that uses SQL)
 
 ## Steps to run the project in your machine
@@ -96,7 +91,9 @@ CREATE TABLE `orders` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 `````````````````````````````````````````````````````
 
-<img src="https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png" width="180" height="200" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78657875/126182991-e9cd47f3-b231-44e7-a119-8f3b34e25f59.png">
+</p>
 
 NOTE: EVERYTHING IS CASE SENSITIVE
 
@@ -113,24 +110,22 @@ NOTE: EVERYTHING IS CASE SENSITIVE
 ### Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/78657875/126271652-4edbcff2-deb4-41c2-9bcc-426576154549.png" width="490" height="320" />  
+<p align="center"><img src="https://user-images.githubusercontent.com/78657875/126271652-4edbcff2-deb4-41c2-9bcc-426576154549.png"/>  
 	
 ## GETTING INTO THE PROJECT:
 	
 ### Home Page:
-This website has a ‘Home’ page which contains links to the following from where the user & admin can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
-
-This is the 'Home' page of our website. (Fig 1.1)
+This website has a ‘Home’ page which contains links to the following from where the user & admin can login into their accounts by toggling the tabs accordingly.
 	
 ![image](https://user-images.githubusercontent.com/78657875/126287259-333c4540-d5a9-41a4-9e03-0e0a5dd268ed.png)
 	
 It contains following sections:-
 
-A) Services (Fig 1.1.1)
+A) Services
 	
-B) Live Updates (Fig 1.1.2)
+B) Live Updates
 	
-C) Useful Youtube Videos (Fig 1.1.3)
+C) Useful Youtube Videos
 
 ### Services: 
 This Section (in the home page itself) contains link to various services like Register for Vaccine, donate to PM Care Fund, find nearest vaccination center and read information about COVID-19 and its prevention.
@@ -171,7 +166,7 @@ The registration page asks customers to enter their First Name, Last Name, DOB, 
 
 Once the user has created his/her own account after clicking the ‘Register’ button, then he/she will be redirected to Login Page.
 
-After successful registration, the user has to log in with the email and password provided on the registration page (Fig 1.4).
+After successful registration, the user has to log in with the email and password provided on the registration page.
 
 ![image](https://user-images.githubusercontent.com/78657875/126290347-ef304607-3202-497e-996d-864a70a6108e.png)
 
