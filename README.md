@@ -1,7 +1,3 @@
-[Final Report Group 12.pdf](https://github.com/shikhar321/TEST-FOR-IMAGES/files/6913022/Final.Report.Group.12.pdf)
-
-
-
 # E-Commerce Website: CoviTech
 
 E-Commerce Website using MySQL, PHP and Bootstrap
@@ -225,7 +221,10 @@ The Admin needs to enter the Username and Password and then click on "Add Admin"
 
 Updates to this Project will be added here.
 
+## Document
+
+[Click Here to Download Project Report](https://github.com/shikhar321/TEST-FOR-IMAGES/files/6913022/Final.Report.Group.12.pdf)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
